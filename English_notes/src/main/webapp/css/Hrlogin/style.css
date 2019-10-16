@@ -1,0 +1,21 @@
+@charset "utf-8";
+html, body, div, span, h1,p, a,form, label{
+	margin:0;
+	padding:0;
+	border:0;
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:100%;
+	font-family:inherit;
+	vertical-align:baseline;
+}
+
+table {border-collapse: collapse;border-spacing:0;}
+body { background:#fff; font: 13px/1.5 'Microsoft Yahei',Tahoma,'微软雅黑';color:#000;}
+
+/*button样式*/
+.button{display:inline-block;width:135px; height:35px; border:none; border-radius:3px;color:#fff; cursor:pointer; font-family:'Microsoft Yahei','微软雅黑';}
+
+
+
+

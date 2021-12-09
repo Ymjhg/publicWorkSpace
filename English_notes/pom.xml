@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <jackson.version>2.8.10</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <junit.version>4.12</junit.version>
         <spring.version>4.3.11.RELEASE</spring.version>
         <mybatis.version>3.2.8</mybatis.version>
